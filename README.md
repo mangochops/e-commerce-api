@@ -17,7 +17,7 @@ Before diving into the project, make sure you're familiar with Django and Django
 #### Also checkout the project's ER-Diagram
 https://drawsql.app/teams/oma-collins/diagrams/e-commerce-api
 
-#### To get started with this project, follow these steps:
+#### To get started with this project, follow the steps:
 
 1. **Fork this repository**: Click the "Fork" button at the top right of this GitHub page to create a copy in your GitHub account.
 
