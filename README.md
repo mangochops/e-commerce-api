@@ -29,7 +29,7 @@ https://drawsql.app/teams/oma-collins/diagrams/e-commerce-api
 
 5. **Create a superuser**: Create a superuser account to access the Django admin panel: `python manage.py createsuperuser`.
 
-8. **Run the development server**: Start the Django development server with `python manage.py runserver`.
+8. **Run the development server**: Start the Djang development server with `python manage.py runserver`.
 
 Now you should be able to access the project at `http://localhost:8000/` and the Django admin panel at `http://localhost:8000/admin/`.
 
